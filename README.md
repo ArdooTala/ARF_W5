@@ -19,7 +19,7 @@ python -m venv .venv
 
 ### Install OpenCV
 
-**CameraControl** examples require `OpenCV` library. You can install `OpenCV` using this terminal command:
+**CameraControl** examples require the `OpenCV` library. You can install `OpenCV` using this terminal command:
 
 ```bash
 pip install opencv-python
